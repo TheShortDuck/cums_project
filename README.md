@@ -24,6 +24,8 @@ Method cache likewise often reffered to as instruction cache.
 - A Survey of Techniques for Cache Partitioning in Multicore Processors https://dl.acm.org/doi/10.1145/3062394
 - A Survey on Cache Management Mechanisms for Real-Time Embedded Systems https://dspacemainprd01.lib.uwaterloo.ca/server/api/core/bitstreams/5d0a6d3e-90ef-45fc-a4ab-a725d4e91ce9/content
 - Making Shared Caches More Predictable on Multicore Platforms https://www.cs.unc.edu/~cjk/papers/ecrts13.pdf
+- Timing‑aware analysis of shared cache interference for non‑preemptive scheduling https://doi.org/10.1007/s11241-024-09430-8
+- WCET Analysis of Shared Caches in Multi-Core Architectures using Event-Arrival Curves https://past.date-conference.com/proceedings-archive/2023/DATA/255.pdf
 
 # Initial timeplan
 ### w7
