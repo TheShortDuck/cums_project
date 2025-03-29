@@ -1,10 +1,6 @@
 # cums_project
 Project in unified method and stack cache
 
-# Dictionary
-stack cache seem to be reffered to as Data cache many places.
-Method cache likewise often reffered to as instruction cache.
-
 # Links to articles
 - Caching in a Mixed-Criticality 5G Radio Base Station (Emads mail)
 
